@@ -63,6 +63,8 @@
     <img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-FFB800?style=flat-square&logo=lpi&logoColor=black" alt="LPI Linux Essentials Badge" width="150" height="25" style="margin: 10px"/>
     <img src="https://img.shields.io/badge/iPhone%20Certification-000000?style=flat-square&logo=apple&logoColor=white" alt="iPhone Certification Badge" width="150" height="25" style="margin: 10px"/>
 </p>
+</br>
+</br>
 <!--End of Certification details-->
 
 <!-- Tech skills section -->
