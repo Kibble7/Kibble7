@@ -1,4 +1,16 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kibble7.Kibble7" />
+<!-- visitor-->
+<div>
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kibble7.Kibble7" />
+</div>
+</br>
+
+<!--dog hi image -->
+<div align="center">
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" style="border-radius: 80%; width: 250px; height: 100px;" />
+</div>
+<!-- End of dog hi image-->
+
+
 
 
 <!-- whoami section with animation -->
@@ -27,6 +39,7 @@
         <li>🐾 When I’m free, I love hiking with my two fur beasts 🐕.</li>
         <li>🌍 I enjoy learning new things, writing, and exploring new places.</li>
     </ul>
+    
 </p>
 </br>
 
@@ -61,5 +74,8 @@
     - Steve Jobs
 </h3>
 <!--End of Tech skills section -->
+
+
+
 
 
