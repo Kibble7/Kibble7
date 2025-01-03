@@ -1,8 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kibble7.Kibble7" />
 
+
+<!-- whoami section with animation -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🐕‍🦺+who+am+i!+👋;+I'm+Gulshan+Rawat!;" />
 </h1>
+
 
 <h3 align="center">A passionate <a href="https://www.linkedin.com/in/gulshan-singh-rawat-b077482aa/">Cybersecurity Enthusiast</a></h3>
 <h3 align="center">
@@ -10,11 +13,26 @@
     <br>
     - Aldous Huxley
 </h3>
+</br>
 
-<br/>
 
+<!-- About me section with quote -->
+<h2 align="center">💻 About Me</h2>
+<p align="center">
+    <ul style="list-style-type: none;">
+        <li>💻 I am currently working on a Cybersecurity Capstone Project.</li>
+        <li>📚 I’m currently learning Penetration Testing, AWS, and Azure.</li>
+        <li>💬 Ask me about Computer Networking, Cybersecurity, Hardware, or Software—I’m always happy to help!</li>
+        <li>📫 Feel free to ping me on <a href="https://www.linkedin.com/in/gulshan-singh-rawat-b077482aa/">LinkedIn</a>.</li>
+        <li>🐾 When I’m free, I love hiking with my two fur beasts 🐕.</li>
+        <li>🌍 I enjoy learning new things, writing, and exploring new places.</li>
+    </ul>
+</p>
+</br>
+
+
+<!-- Tech skills section -->
 <h2 align="center">🔧 Tech Skills</h2>
-
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" width="120"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Badge" width="120"/>
@@ -36,15 +54,6 @@
 7. **Vulnerability Assessment**: Familiar with identifying, assessing, and mitigating vulnerabilities in software, networks, and systems.
 8. **Hardware & Software**: Knowledge of both hardware troubleshooting and software management, including system diagnostics and installations.
 
-<h2 align="center">💻 About Me</h2>
 
-<p align="center">
-    <ul style="list-style-type: none;">
-        <li>💻 I am currently working on a Cybersecurity Capstone Project.</li>
-        <li>📚 I’m currently learning Penetration Testing, AWS, and Azure.</li>
-        <li>💬 Ask me about Computer Networking, Cybersecurity, Hardware, or Software—I’m always happy to help!</li>
-        <li>📫 Feel free to ping me on <a href="https://www.linkedin.com/in/gulshan-singh-rawat-b077482aa/">LinkedIn</a>.</li>
-        <li>🐾 When I’m free, I love hiking with my two fur beasts 🐕.</li>
-        <li>🌍 I enjoy learning new things, writing, and exploring new places.</li>
-    </ul>
-</p>
+
+
