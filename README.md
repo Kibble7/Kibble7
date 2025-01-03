@@ -1,16 +1,50 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kibble7.Kibble7" />
 
-<!--
-**Kibble7/Kibble7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🐕‍🦺+who+am+i!+👋;+I'm+Gulshan+Rawat!;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate <a href="https://www.linkedin.com/in/gulshan-singh-rawat-b077482aa/">Cybersecurity Enthusiast</a></h3>
+<h3 align="center">
+    "There is only one corner of the universe you can be certain of improving, and that's your own self."
+    <br>
+    - Aldous Huxley
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<h2 align="center">🔧 Tech Skills</h2>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" width="120"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Badge" width="120"/>
+    <img src="https://img.shields.io/badge/Nmap-00B140?style=flat-square&logo=nmap&logoColor=white" alt="Nmap Badge" width="120"/>
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark Badge" width="120"/>
+    <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white" alt="Networking Badge" width="120"/>
+    <img src="https://img.shields.io/badge/OSINT-009688?style=flat-square&logo=google&logoColor=white" alt="OSINT Badge" width="120"/>
+    <img src="https://img.shields.io/badge/Vulnerability_Assessment-FF6600?style=flat-square&logo=security&logoColor=white" alt="Vulnerability Assessment Badge" width="120"/>
+    <img src="https://img.shields.io/badge/Hardware_and_Software-FFD700?style=flat-square&logo=hardware&logoColor=black" alt="Hardware & Software Badge" width="120"/>
+</p>
+
+### Skills Breakdown:
+1. **Python**: Proficient in writing scripts for automation, penetration testing, and data analysis.
+2. **Linux**: Comfortable with Linux-based systems, including security configurations, command-line operations, and administration.
+3. **Nmap**: Skilled in using Nmap for network discovery, security auditing, and vulnerability scanning.
+4. **Wireshark**: Proficient in network protocol analysis and packet inspection using Wireshark.
+5. **Networking**: In-depth understanding of networking concepts, protocols (TCP/IP, DNS, HTTP, etc.), and network security.
+6. **OSINT (Open Source Intelligence)**: Experienced in gathering and analyzing information from publicly available sources for threat intelligence.
+7. **Vulnerability Assessment**: Familiar with identifying, assessing, and mitigating vulnerabilities in software, networks, and systems.
+8. **Hardware & Software**: Knowledge of both hardware troubleshooting and software management, including system diagnostics and installations.
+
+<h2 align="center">💻 About Me</h2>
+
+<p align="center">
+    <ul style="list-style-type: none;">
+        <li>💻 I am currently working on a Cybersecurity Capstone Project.</li>
+        <li>📚 I’m currently learning Penetration Testing, AWS, and Azure.</li>
+        <li>💬 Ask me about Computer Networking, Cybersecurity, Hardware, or Software—I’m always happy to help!</li>
+        <li>📫 Feel free to ping me on <a href="https://www.linkedin.com/in/gulshan-singh-rawat-b077482aa/">LinkedIn</a>.</li>
+        <li>🐾 When I’m free, I love hiking with my two fur beasts 🐕.</li>
+        <li>🌍 I enjoy learning new things, writing, and exploring new places.</li>
+    </ul>
+</p>
