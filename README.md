@@ -52,18 +52,34 @@
 </br>
 
 
+<!-- Certification details-->
+<h2 align="center">🎓 **Certifications and Licenses**</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/CCNA-0074C1?style=flat-square&logo=cisco&logoColor=white" alt="CCNA Badge" width="150" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/Security%2B-009CDE?style=flat-square&logo=compTIA&logoColor=white" alt="Security+ Badge" width="150" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/Network%2B-FCC624?style=flat-square&logo=compTIA&logoColor=white" alt="Network+ Badge" width="150" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/A%2B-FF6600?style=flat-square&logo=compTIA&logoColor=white" alt="A+ Badge" width="150" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/ISC2%20Certified%20in%20Cybersecurity-7E2F24?style=flat-square&logo=isc2&logoColor=white" alt="ISC2 CC Badge" width="150" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-FFB800?style=flat-square&logo=lpi&logoColor=black" alt="LPI Linux Essentials Badge" width="150" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/iPhone%20Certification-000000?style=flat-square&logo=apple&logoColor=white" alt="iPhone Certification Badge" width="150" height="25" style="margin: 10px"/>
+</p>
+<!--End of Certification details-->
+
 <!-- Tech skills section -->
 <h2 align="center">🔧 Tech Skills & Tools</h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" width="120"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Badge" width="120"/>
-    <img src="https://img.shields.io/badge/Nmap-00B140?style=flat-square&logo=nmap&logoColor=white" alt="Nmap Badge" width="120"/>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark Badge" width="120"/>
-    <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white" alt="Networking Badge" width="120"/>
-    <img src="https://img.shields.io/badge/OSINT-009688?style=flat-square&logo=google&logoColor=white" alt="OSINT Badge" width="120"/>
-    <img src="https://img.shields.io/badge/Vulnerability_Assessment-FF6600?style=flat-square&logo=security&logoColor=white" alt="Vulnerability Assessment Badge" width="120"/>
-    <img src="https://img.shields.io/badge/Hardware_and_Software-FFD700?style=flat-square&logo=hardware&logoColor=black" alt="Hardware & Software Badge" width="120"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" width="120" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Badge" width="120" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/Nmap-00B140?style=flat-square&logo=nmap&logoColor=white" alt="Nmap Badge" width="120" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark Badge" width="120" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white" alt="Networking Badge" width="120" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/OSINT-009688?style=flat-square&logo=google&logoColor=white" alt="OSINT Badge" width="120" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/Vulnerability_Assessment-FF6600?style=flat-square&logo=security&logoColor=white" alt="Vulnerability Assessment Badge" width="120" height="25" style="margin: 10px"/>
+    <img src="https://img.shields.io/badge/Hardware_and_Software-FFD700?style=flat-square&logo=hardware&logoColor=black" alt="Hardware & Software Badge" width="120" height="25" style="margin: 10px"/>
 </p>
+
+
+
 
 ### Skills Breakdown:
 1. **Python**: Proficient in writing scripts for automation, penetration testing, and data analysis.
@@ -82,6 +98,19 @@
     - Steve Jobs
 </h3>
 <!--End of Tech skills section -->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
