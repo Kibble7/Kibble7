@@ -32,7 +32,7 @@
 
 
 <!-- Tech skills section -->
-<h2 align="center">🔧 Tech Skills</h2>
+<h2 align="center">🔧 Tech Skills & Tools</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" width="120"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Badge" width="120"/>
@@ -53,7 +53,13 @@
 6. **OSINT (Open Source Intelligence)**: Experienced in gathering and analyzing information from publicly available sources for threat intelligence.
 7. **Vulnerability Assessment**: Familiar with identifying, assessing, and mitigating vulnerabilities in software, networks, and systems.
 8. **Hardware & Software**: Knowledge of both hardware troubleshooting and software management, including system diagnostics and installations.
-
-
+</br> 
+<!--Learning Quote -->
+<h3 align="center">
+    Learn continually-there's always "one more thing" to learn!
+    <br>
+    - Steve Jobs
+</h3>
+<!--End of Tech skills section -->
 
 
