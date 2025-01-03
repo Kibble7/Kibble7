@@ -15,8 +15,16 @@
 
 <!-- whoami section with animation -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+who+am+i🐕‍🦺!+;+I'm+Gulshan+Rawat!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+who+am+i🐕‍🦺!+;+I'm+Gulshan+Rawat!;" />   
 </h1>
+<!-- End of whoami section with animation -->
+
+<!--inerest section-->
+<div align="center">
+  <p style="font-size: 14px;"> 📖 **Learning** – 🚶‍♂️ **Hiking** – 🚴‍♂️ **Biking** – 📚 **Reading** – ✍️ **Writing** – 🌍 **Exploring**</p>
+</div>
+<hr>
+<!-- End of interest seciton -->
 
 
 <h3 align="center">A passionate <a href="https://www.linkedin.com/in/gulshan-singh-rawat-b077482aa/">Cybersecurity Enthusiast</a></h3>
@@ -74,6 +82,11 @@
     - Steve Jobs
 </h3>
 <!--End of Tech skills section -->
+
+
+
+
+
 
 
 
