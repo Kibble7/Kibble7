@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" role="img" aria-label="Rotating quotes by Audrey Hepburn, John Richard Hersey and Harriet Tubman">
+  <style>
+    .qa-t { font-family: Georgia, 'Times New Roman', serif; font-size: 24px; font-style: italic; fill: #2C9CDB; text-anchor: middle; }
+    .qa-a { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #8b949e; text-anchor: middle; }
+    .qa-g { opacity: 0; animation: qa-cycle 27s infinite; }
+    .qa-g1 { animation-delay: 0s; }
+    .qa-g2 { animation-delay: 9s; }
+    .qa-g3 { animation-delay: 18s; }
+    @keyframes qa-cycle {
+      0%   { opacity: 0; transform: translateY(10px); }
+      3%   { opacity: 1; transform: translateY(0); }
+      30%  { opacity: 1; transform: translateY(0); }
+      33%  { opacity: 0; transform: translateY(-10px); }
+      100% { opacity: 0; transform: translateY(-10px); }
+    }
+  </style>
+
+  <!-- Audrey Hepburn -->
+  <g class="qa-g qa-g1">
+    <text class="qa-t" x="400" y="82">
+      <tspan x="400" dy="0">“As you grow older, you will discover that you have two hands:</tspan>
+      <tspan x="400" dy="36">one for helping yourself, the other for helping others.”</tspan>
+    </text>
+    <text class="qa-a" x="400" y="172">- Audrey Hepburn</text>
+  </g>
+
+  <!-- John Richard Hersey -->
+  <g class="qa-g qa-g2">
+    <text class="qa-t" x="400" y="82">
+      <tspan x="400" dy="0">“Learning starts with failure;</tspan>
+      <tspan x="400" dy="36">the first failure is the beginning of education.”</tspan>
+    </text>
+    <text class="qa-a" x="400" y="172">- John Richard Hersey</text>
+  </g>
+
+  <!-- Harriet Tubman -->
+  <g class="qa-g qa-g3">
+    <text class="qa-t" x="400" y="40">
+      <tspan x="400" dy="0">“Every great dream begins with a dreamer.</tspan>
+      <tspan x="400" dy="34">Always remember, you have within you the strength,</tspan>
+      <tspan x="400" dy="34">the patience, and the passion to reach for the stars</tspan>
+      <tspan x="400" dy="34">to change the world.”</tspan>
+    </text>
+    <text class="qa-a" x="400" y="198">- Harriet Tubman</text>
+  </g>
+</svg>
