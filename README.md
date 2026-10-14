@@ -42,13 +42,14 @@
 
 ## 💻 About Me
 
-- 🤝 I love **helping others in technology**, from troubleshooting to teaching security habits
-- 🔭 Currently working on a **Cybersecurity Capstone Project**
-- 📚 Currently learning **Penetration Testing, AWS, and Azure**
-- 💬 Ask me about **Computer Networking, Cybersecurity, Hardware, or Software**. I'm always happy to help!
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gulshan-singh-rawat-b077482aa/)
-- 🐾 When I'm free, I love hiking with my two fur beasts 🐕
-- 🌍 I enjoy learning new things, writing, and exploring new places
+- 💼 I help **small businesses with IT setup, troubleshooting, and technology solutions**, and support **seniors with technology** to make everyday tech easier and safer. Visit [RawIT Services](https://rawit.ca/).
+- 🤝 I love **helping others with technology**, from troubleshooting technical issues to promoting good cybersecurity practices.
+- 🔭 Currently working on **cybersecurity projects, hands-on labs, and technical documentation**.
+- 📚 Currently deepening my knowledge of **Cloud Computing (AWS & Azure), Cybersecurity, and Penetration Testing**.
+- 💬 Ask me about **Computer Networking, Cybersecurity, Windows & Linux Servers, Hardware & Software Troubleshooting, and Small Business IT Solutions**. I'm always happy to help!
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gulshan-singh-rawat-b077482aa/).
+- 🐾 Outside of technology, I love hiking and walking with my two furry companions. 🐕
+- 🌍 I enjoy **continuous learning, writing, journaling, exploring new places, discovering food cultures, and spending time in nature**.
 
 ---
 
