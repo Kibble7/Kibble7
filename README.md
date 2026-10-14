@@ -33,9 +33,9 @@
 <!-- Highlight line -->
 <p align="center">
   <code>🤝 Helping others in technology</code>&nbsp;
-  <code>🖥️ Windows &amp; Linux Systems Administration</code>&nbsp;
-  <code>📱 Endpoint Management with Intune &amp; Jamf</code>&nbsp;
-  <code>⚙️ Automating with PowerShell &amp; Python</code>
+  <code>✍️ Technology writing and knowledge sharing</code>&nbsp;
+  <code>🖥️ Continuous learning and exploring new technologies</code>&nbsp;
+  <code>🌳 Nature and outdoor exploration</code>
 </p>
 
 ---
