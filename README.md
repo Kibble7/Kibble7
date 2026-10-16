@@ -16,6 +16,21 @@
 </h1>
 <!-- End of whoami section with animation -->
 
+<!-- Huxley quote -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1877F2,100:12a594&height=3&section=header" width="60%" alt="" />
+</p>
+<h3 align="center">
+  <i>“There is only one corner of the universe you can be certain of improving, and that’s your own self.”</i>
+</h3>
+<p align="center">
+  <b>— Aldous Huxley</b>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12a594,100:1877F2&height=3&section=header" width="60%" alt="" />
+</p>
+<!-- End of Huxley quote -->
+
 <!--interest section-->
 <div align="center">
   <p style="font-size: 14px;"> 📖 <b>Learning</b> – 🚶‍♂️ <b>Hiking</b> – 🚴‍♂️ <b>Biking</b> – 📚 <b>Reading</b> – ✍️ <b>Writing</b> – 🌍 <b>Exploring</b></p>
